@@ -3,7 +3,7 @@
 
 #include "utility.h"
 
-g
+
 
 //Leave main() alone! THAT MEANS DON'T TOUCH CODE BELOW THIS LINE!!!
 int main() {
